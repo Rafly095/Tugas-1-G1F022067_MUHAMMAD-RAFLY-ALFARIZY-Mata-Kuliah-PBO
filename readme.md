@@ -38,6 +38,7 @@ for i in range(1, 6):
 ```
 
  - **Output :**
+
  ![alt text](/image/For.png?raw=true)
 
  - **Penjelasan :**
@@ -63,7 +64,8 @@ while counter <= 5:
     counter += 1
 ```
 
-- **Output :** 
+- **Output :**
+
 ![alt text](/image/while.png?raw=true)
 
 - **Penjelasan :**
