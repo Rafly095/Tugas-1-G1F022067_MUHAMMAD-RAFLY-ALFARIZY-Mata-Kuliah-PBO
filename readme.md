@@ -1,4 +1,4 @@
-# *Tugas 1 Pemrograman Perbasis Objek*
+# *Tugas 1 Pemrograman Berbasis Objek*
 ## Nama : Muhammad Rafly Alfarizy
 ## NPM  : G1F022067
 
